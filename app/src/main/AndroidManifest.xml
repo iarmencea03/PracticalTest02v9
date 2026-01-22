@@ -15,7 +15,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PracticalTest02v9">
         <activity
-            android:name=".PracticalTest02v9"
+            android:name=".PracticalTest02v9MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
