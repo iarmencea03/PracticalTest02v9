@@ -115,17 +115,18 @@
             android:layout_gravity="center"
             android:text="Execute"/>
 
+        <TextView
+            android:id="@+id/anagram_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="10"/>
+
     </LinearLayout>
 
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <TextView
-            android:id="@+id/weather_forecast_text_view"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:maxLines="10"/>
 
     </ScrollView>
 
